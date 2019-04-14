@@ -1,0 +1,10 @@
+C:\Users\Lorenzo\source\repos\McDaniel_PA6\McDaniel_PA6\bin\Debug\McDaniel_PA6.exe.config
+C:\Users\Lorenzo\source\repos\McDaniel_PA6\McDaniel_PA6\bin\Debug\McDaniel_PA6.exe
+C:\Users\Lorenzo\source\repos\McDaniel_PA6\McDaniel_PA6\bin\Debug\McDaniel_PA6.pdb
+C:\Users\Lorenzo\source\repos\McDaniel_PA6\McDaniel_PA6\obj\Debug\McDaniel_PA6.csprojAssemblyReference.cache
+C:\Users\Lorenzo\source\repos\McDaniel_PA6\McDaniel_PA6\obj\Debug\McDaniel_PA6.Form1.resources
+C:\Users\Lorenzo\source\repos\McDaniel_PA6\McDaniel_PA6\obj\Debug\McDaniel_PA6.Properties.Resources.resources
+C:\Users\Lorenzo\source\repos\McDaniel_PA6\McDaniel_PA6\obj\Debug\McDaniel_PA6.csproj.GenerateResource.cache
+C:\Users\Lorenzo\source\repos\McDaniel_PA6\McDaniel_PA6\obj\Debug\McDaniel_PA6.csproj.CoreCompileInputs.cache
+C:\Users\Lorenzo\source\repos\McDaniel_PA6\McDaniel_PA6\obj\Debug\McDaniel_PA6.exe
+C:\Users\Lorenzo\source\repos\McDaniel_PA6\McDaniel_PA6\obj\Debug\McDaniel_PA6.pdb
